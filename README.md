@@ -1,4 +1,4 @@
-# soy-carlos-win
+# Primer repo de Carlos
 primer repositorio creado en mi cuenta.
 
 ** descripcion: emprendiendo github
